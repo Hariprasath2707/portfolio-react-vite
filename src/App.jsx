@@ -7,6 +7,10 @@ import Contact from './Components/Contact/Contact'
 import Footer from './Components/Footer/Footer'
 import Navbar from './Components/navbar/Navbar'
 
+
+
+
+
 const App = () => {
   return (
     <div>
