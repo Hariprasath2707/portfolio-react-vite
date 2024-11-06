@@ -9,7 +9,8 @@ const Footer = () => {
     <div className='footer'>
         <div className="footer-top">
             <div className="footer-top-left">
-                <img src={logo} alt="" />
+                {/* <img src={logo} alt="" /> */}
+                <span>HARIPRASATH V</span>
                 <p>Proficient in HTML, CSS, JavaScript, React, and Python, with a strong foundation in front-end and back-end
                 development</p>
             </div>
